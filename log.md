@@ -19,3 +19,29 @@ Links:
 
 Code:
   * https://github.com/Sayar1106/100-Days-of-ML-code/blob/master/code/Day2and3.py
+
+  ### Day 3: July 28 2018
+
+  Today's progress:
+  * Watched lecture on the art of not following the market.
+  * Coded simple moving averages for time series data.
+
+  Links:
+  * https://www.youtube.com/watch?v=Af0l3TQJ3h8
+
+  Code:
+  * https://github.com/Sayar1106/100-Days-of-ML-code/blob/master/code/Day2and3.py
+  * https://github.com/Sayar1106/100-Days-of-ML-code/blob/master/code/Day3cont.py
+
+  ### Day 4: July 29 2018
+
+  Today's progress:
+  * Finished lecture on the art of not following the market.
+  * Plotted correlations of time series data.
+  * Created a long short trading strategy for a portfolio using spearman rank correlation coefficients.
+
+  Links:
+  * https://www.youtube.com/watch?v=Af0l3TQJ3h8
+
+  Code:
+  * https://github.com/Sayar1106/100-Days-of-ML-code/blob/master/code/Day3cont.py
