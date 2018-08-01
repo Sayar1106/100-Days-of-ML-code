@@ -56,3 +56,11 @@ Code:
 
   Course Certificate:
   * https://www.coursera.org/account/accomplishments/certificate/N2NV4F5YSR7F
+
+  ### Day 6: August 1 2018
+
+Today's progress:
+  * Started 4th course in the deep learning specialization by Andrew Ng.
+
+Link:
+  * https://www.coursera.org/learn/convolutional-neural-networks/lecture/Ob1nR/computer-vision
