@@ -60,7 +60,19 @@ Code:
   ### Day 6: August 1 2018
 
 Today's progress:
-  * Started 4th course in the deep learning specialization by Andrew Ng.
+  * Started 4th course in the deep learning specialization (Convolutional Neural Networks) by Andrew Ng.
 
 Link:
   * https://www.coursera.org/learn/convolutional-neural-networks/lecture/Ob1nR/computer-vision
+
+  ### Day 7: August 2 2018
+
+  Today's progress:
+  * Continued studying Convolutional Neural Networks from Coursera.
+  * Started reading Deep Learning book by Ian Goodfellow, Yoshua Bengio, Aaron Courville.
+  * Started reading The Elements of Statistical Learning from the springer series in statistics.
+
+  Links:
+  * https://www.coursera.org/learn/convolutional-neural-networks/home/welcome
+  * http://www.deeplearningbook.org/
+  * https://web.stanford.edu/~hastie/ElemStatLearn/
