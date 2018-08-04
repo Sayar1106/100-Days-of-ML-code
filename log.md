@@ -76,3 +76,13 @@ Link:
   * https://www.coursera.org/learn/convolutional-neural-networks/home/welcome
   * http://www.deeplearningbook.org/
   * https://web.stanford.edu/~hastie/ElemStatLearn/
+
+  ### Day 8: August 3 2018
+
+  Today's progress:
+  * Finished half of Linear Alegbra from Deep Learning Deep Learning book by Ian Goodfellow, Yoshua Bengio, Aaron Courville.
+  * Read an article on building data science portfolio on Medium.
+
+  Links:
+  * http://www.deeplearningbook.org/
+  * https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c
