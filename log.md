@@ -86,3 +86,11 @@ Link:
   Links:
   * http://www.deeplearningbook.org/
   * https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c
+
+  ### Day 9: August 4 2018
+
+  Today's progress:
+  * Finished 1st week of Convolutional Neural Networks, the 4th course in the deeplearning.ai specialization on Coursera.
+
+  Links:
+  * https://www.coursera.org/learn/convolutional-neural-networks
