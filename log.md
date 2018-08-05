@@ -90,7 +90,15 @@ Link:
   ### Day 9: August 4 2018
 
   Today's progress:
-  * Finished 1st week of Convolutional Neural Networks, the 4th course in the deeplearning.ai specialization on Coursera.
+  * Finished watching lectures of the 1st week of Convolutional Neural Networks, the 4th course in the deeplearning.ai specialization on Coursera.
 
   Links:
   * https://www.coursera.org/learn/convolutional-neural-networks
+
+  ### Day 10: August 5 2018
+
+  Today's progress:
+  * Completed quiz and programming assignments of the 1st week of Convolutional Neural Networks.
+  * Started week 2 of the aforementioned course.
+
+
