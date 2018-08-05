@@ -98,7 +98,7 @@ Link:
   ### Day 10: August 5 2018
 
   Today's progress:
-  * Completed quiz and programming assignments of the 1st week of Convolutional Neural Networks.
+  * Completed quiz and [programming assignments](https://github.com/Sayar1106/100-Days-of-ML-code/blob/master/code/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb) of the 1st week of Convolutional Neural Networks.
   * Started week 2 of the aforementioned course.
 
 
