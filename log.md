@@ -101,4 +101,10 @@ Link:
   * Completed quiz and [programming assignments](https://github.com/Sayar1106/100-Days-of-ML-code/blob/master/code/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb) of the 1st week of Convolutional Neural Networks.
   * Started week 2 of the aforementioned course.
 
+  ### Day 11: August 6 2018
+
+  Today's progress:
+  * Continuing lectures on week 2 of CNNs.
+  * Started coding for new blog post on Medium.
+  * Read VGG-net paper.
 
