@@ -108,3 +108,12 @@ Link:
   * Started coding for new blog post on Medium.
   * Read VGG-net paper.
 
+  ### Day 12: August 7 2018
+
+  Today's progress:
+  * Finished week 2 lectures of CNNs.
+  * Built a Resnet from scratch as part of the assignment for the CNN course.
+
+  ### Day 13: August 8 2018
+
+  Today's progress
