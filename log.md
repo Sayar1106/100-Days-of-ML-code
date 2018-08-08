@@ -112,8 +112,9 @@ Link:
 
   Today's progress:
   * Finished week 2 lectures of CNNs.
-  * Built a Resnet from scratch as part of the assignment for the CNN course.
+  * Built a [Resnet](https://github.com/Sayar1106/100-Days-of-ML-code/blob/master/code/Residual%2BNetworks%2B-%2Bv2.ipynb) from scratch as part of the assignment for the CNN course.
 
   ### Day 13: August 8 2018
+
 
   Today's progress
