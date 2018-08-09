@@ -116,5 +116,9 @@ Link:
 
   ### Day 13: August 8 2018
 
+  Today's progress:
+  * Wacthed quantiopian [lecture](https://www.youtube.com/watch?v=KNCgvjyKrcw&t=602s).
 
-  Today's progress
+  ### Day 14: August 9 2018
+
+
