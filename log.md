@@ -119,6 +119,10 @@ Link:
   Today's progress:
   * Wacthed quantiopian [lecture](https://www.youtube.com/watch?v=KNCgvjyKrcw&t=602s).
 
-  ### Day 14: August 9 2018
+  ### Day 14: August 10 2018
+
+  Today's progress:
+  * Started Week 3 of CNNs.
+
 
 
