@@ -124,5 +124,9 @@ Link:
   Today's progress:
   * Started Week 3 of CNNs.
 
+  ### Day 15: August 12 2018
 
+  Today's progress:
+  * Completed Week 3 of CNNs.
+  * Implemented the yolo algorithm from scratch to detect and localize car images.
 
