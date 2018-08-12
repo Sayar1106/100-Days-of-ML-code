@@ -128,5 +128,5 @@ Link:
 
   Today's progress:
   * Completed Week 3 of CNNs.
-  * Implemented the yolo algorithm from scratch to detect and localize car images.
+  * Implemented the [yolo algorithm](https://github.com/Sayar1106/100-Days-of-ML-code/blob/master/code/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb) from scratch to detect and localize car images.
 
