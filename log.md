@@ -145,8 +145,8 @@ Link:
 
   Today's progress:
   * Completed Week 4 lectures and quiz of CNNs.
-  * Implemented Neural Style Transfer as part of programming assignments for CNNs
-  * Implemented Face Recognition system as part of programming assignment for CNNs.
+  * Implemented [Neural Style Transfer](https://github.com/Sayar1106/100-Days-of-ML-code/blob/master/code/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb) as part of programming assignments for CNNs
+  * Implemented [Face Recognition system](https://github.com/Sayar1106/100-Days-of-ML-code/blob/master/code/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb) as part of programming assignment for CNNs.
   * Earned Course certificate for CNNS.
-  * S
+
 
