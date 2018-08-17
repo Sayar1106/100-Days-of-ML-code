@@ -130,3 +130,23 @@ Link:
   * Completed Week 3 of CNNs.
   * Implemented the [yolo algorithm](https://github.com/Sayar1106/100-Days-of-ML-code/blob/master/code/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb) from scratch to detect and localize car images.
 
+  ### Day 16: August 13 2018
+
+  Today's progress:
+  * Started competition for [predicting credit default rates](https://www.kaggle.com/c/home-credit-default-risk) on Kaggle.
+  * Started Week 4 of CNN's
+
+  ### Day 17: August 14 2018
+
+  Today's progress:
+  * Continued building notebook for data munging, data wrangling and EDA for kaggle competition.
+
+  ### Day 18: August 16 2018
+
+  Today's progress:
+  * Completed Week 4 lectures and quiz of CNNs.
+  * Implemented Neural Style Transfer as part of programming assignments for CNNs
+  * Implemented Face Recognition system as part of programming assignment for CNNs.
+  * Earned Course certificate for CNNS.
+  * S
+
