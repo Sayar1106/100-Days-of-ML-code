@@ -150,3 +150,23 @@ Link:
   * Earned [Course certificate](https://www.coursera.org/account/accomplishments/certificate/4R2U6Y4ENSKP) for CNNS.
 
 
+ ### Day 19: August 18 2018
+
+ Today's progress:
+ * Started Course 5 on Sequence models.
+
+ ### Day 20: August 19 2018
+
+ Today's progress:
+ * Continuing course on Sequence models.
+
+ ### Day 21: August 20 2018
+
+ Today's progress:
+ * Started writing a peice for Towards Data Science, a medium publication.
+
+ ### Day 22: August 21 2018
+
+ Today's progress:
+ * Continuing writing piece for Towards Data Science, a medium publication.
+
