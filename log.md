@@ -170,3 +170,13 @@ Link:
  Today's progress:
  * Continuing writing piece for Towards Data Science, a medium publication.
 
+ ### Day 23: August 22 2018
+
+ Today's progress:
+ * Started designing a Jupyter notebook for a tutorial on Tensorflow to present to a group of Data Science enthusiasts.
+
+ ### Day 24: August 23 2018
+
+ Today's progress:
+ * Completed first draft of the notebook.
+
